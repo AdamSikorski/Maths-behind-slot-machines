@@ -1,12 +1,11 @@
-# Cassino-slots---how-cassinos-make-money-
+# Maths behind slot machines
 
 # Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is made to show how cassinos design their slot machines. 
 	
 ## Technologies
 Project is created with:
