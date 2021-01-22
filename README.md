@@ -1,6 +1,6 @@
 # Maths behind slot machines
 
-# Table of contents
+## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
 
