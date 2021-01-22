@@ -1,11 +1,11 @@
 # Cassino-slots---how-cassinos-make-money-
 
-## Table of contents
-* [About the project](#About the project)
+# Table of contents
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## About the project
+## General info
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
@@ -16,9 +16,3 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
